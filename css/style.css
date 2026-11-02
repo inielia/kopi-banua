@@ -126,7 +126,7 @@ nav a:focus { color: var(--aksen); }
   color: var(--aksen);
 }
 
-.hero-teks h2 { font-size: clamp(2rem, 6vw, 3.25rem); }
+.hero-teks h2 { font-size: clamp(1.8rem, 4.5vw, 2.8rem); }
 
 .hero-deskripsi {
   max-width: 480px;
